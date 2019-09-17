@@ -9,8 +9,8 @@ import java.util.Properties;
 
 @RunWith(Cucumber.class)
 @CucumberOptions
-//        (plugin = {"pretty","json:target/cucumber.json"},
-        (plugin = {"pretty"},
+        (plugin = {"pretty","json:target/cucumber.json"},
+//        (plugin = {"pretty"},
                  glue = {"atlastests"}
 //                 , tags = {"@estimp"}
 //                , tags = {"not @qds"}//"not @ds and not @qds"}
