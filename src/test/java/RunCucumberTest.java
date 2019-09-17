@@ -13,8 +13,8 @@ import java.util.Properties;
 //        (plugin = {"pretty"},
                  glue = {"atlastests"}
 //                 , tags = {"@estimp"}
-//                , tags = {"not @qds"}//"not @ds and not @qds"}
-                    , tags = {"@login"}
+                , tags = {"not @qds"}//"not @ds and not @qds"}
+//                    , tags = {"@login"}
                 )
 
 public class RunCucumberTest {
