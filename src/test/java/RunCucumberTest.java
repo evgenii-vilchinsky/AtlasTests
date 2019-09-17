@@ -14,7 +14,7 @@ import java.util.Properties;
                  glue = {"atlastests"}
 //                 , tags = {"@estimp"}
 //                , tags = {"not @qds"}//"not @ds and not @qds"}
-                    , tags = {"@devop"}
+                    , tags = {"@login"}
                 )
 
 public class RunCucumberTest {
