@@ -13,7 +13,7 @@ import java.util.Properties;
         (plugin = {"pretty"},
                  glue = {"atlastests"}
 //                 , tags = {"@estimp"}
-//                , tags = {"not @qds"}//"not @ds and not @qds"}  Jenkins pipeline test
+//                , tags = {"not @qds"}//"not @ds and not @qds"}  
                     , tags = {"@login"}
                 )
 
